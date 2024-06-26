@@ -65,6 +65,8 @@ Ensure you have the following installed:
 
 2. Open `index.html` in your web browser using a local server.
 
+3. install the required npm dependencies. 
+
 ## Usage
 
 ### Running the Project
