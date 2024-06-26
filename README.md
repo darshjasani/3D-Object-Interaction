@@ -16,6 +16,16 @@ This project demonstrates the use of three.js for creating stunning 3D visualiza
 
 This project showcases a 3D scene created using three.js, a powerful JavaScript library for 3D graphics. The scene includes an icosahedron with a dynamic wireframe, multiple cameras, and interactive controls for an immersive experience.
 
+### Dynamic Wireframes
+Wireframes are an essential visualization technique in 3D graphics that allow you to see the underlying structure of 3D models. In this project, you can toggle between solid and dashed wireframes, providing a versatile way to view and analyze the geometry of the icosahedron. The line width and color of the wireframes can also be customized through a user-friendly graphical interface.
+
+### Multiple Cameras
+To enhance the visualization experience, this project uses multiple cameras. The main camera provides a comprehensive view of the 3D scene, while an inset camera offers an additional perspective. This dual-camera setup allows you to observe the 3D model from different angles simultaneously, making it easier to understand its structure and spatial relationships.
+
+### Interactive Controls
+Interactivity is a key feature of modern 3D graphics, and this project includes interactive controls using OrbitControls. These controls allow you to rotate, zoom, and pan the camera around the scene with ease, providing an intuitive way to explore the 3D model. The graphical user interface (GUI) further enhances interactivity by offering controls to adjust wireframe properties dynamically.
+
+
 ## Features
 
 - **Dynamic Wireframes**: Toggle between solid and dashed wireframes.
