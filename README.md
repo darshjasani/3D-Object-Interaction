@@ -64,7 +64,12 @@ Ensure you have the following installed:
 
 2. Open `index.html` in your web browser using a local server.
 
-3. Install the required npm dependencies. 
+3. Install the required npm dependencies.
+
+4. Use the following command to run the project.
+   ```bash
+   npm run dev
+   ```
 
 ## Usage
 
