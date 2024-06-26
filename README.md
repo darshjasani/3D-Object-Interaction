@@ -1,4 +1,3 @@
-
 # Three.js Visualization Project
 
 This project demonstrates the use of three.js for creating stunning 3D visualizations with features such as wireframes, multiple cameras, and interactive controls.
