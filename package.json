@@ -1,0 +1,19 @@
+{
+  "name": "3d-object-interaction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "vite.config.js",
+  "scripts": {
+    "dev": "vite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^5.3.1"
+  },
+  "dependencies": {
+    "three": "^0.165.0"
+  }
+}
