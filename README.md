@@ -13,7 +13,7 @@ This project demonstrates the use of three.js for creating stunning 3D visualiza
 
 ## Introduction
 
-This project showcases a 3D scene created using three.js, a powerful JavaScript library for 3D graphics. The scene includes an icosahedron (polyhedron with 20 faces) with a dynamic wireframe, multiple cameras, and interactive controls for an immersive experience.
+This project showcases a 3D scene created using three.js, a powerful JavaScript library for 3D graphics. The scene includes an icosahedron (polyhedron with 20 faces) with a dynamic wireframe, multiple cameras, and interactive controls for an immersive experience. 
 
 ### Dynamic Wireframes
 Wireframes are an essential visualization technique in 3D graphics that allows you to see the underlying structure of 3D models. In this project, you can toggle between solid and dashed wireframes, providing a versatile way to view and analyze the geometry of the icosahedron. The line width and color of the wireframes can also be customized through a user-friendly graphical interface.
